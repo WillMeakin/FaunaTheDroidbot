@@ -10,7 +10,7 @@ Use three data points to calculate acceleration and curving
 Add third dimension, look at obstacles descending, predict where they will land. (For footsteps)
 Increase environment size, building to building. (Recognise doorways to break down search problem)
 Use Google maps/street view to map streets. Footpaths and crossings are suitable environment cells.
-Create environment grid from sensor data, for unexplored areas.
+Create environment grid from sensor data (laser distance in rotating plane), for unexplored areas.
 Lock destination to behind a person’s feet.
 Voice commands (extend existing? Give Fauna a head to acknowledge with)
 
